@@ -68,7 +68,7 @@
 
 ### Link to Tableau Projects
 
-![__](https://public.tableau.com/app/profile/john.lansberry/viz/NYCCitiBikeChallenge_16685300649150/TheNYCCitiBikeLessons?publish=yes)
+(https://public.tableau.com/app/profile/john.lansberry/viz/NYCCitiBikeChallenge_16685300649150/TheNYCCitiBikeLessons?publish=yes)
 
 ### Storyboard Images
 
