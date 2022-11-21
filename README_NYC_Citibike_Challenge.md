@@ -20,6 +20,10 @@
 
 ## RESOURCES
 
+### MY TABLEAU LINK FOR THIS CHALLENGE:
+
+(https://public.tableau.com/app/profile/john.lansberry/viz/NYCCitiBikeChallenge_16685300649150/TheNYCCitiBikeLessons?publish=yes)
+
 ### Tableau Public Edition 2022.3.0
 
 ### Pandas
@@ -62,6 +66,13 @@
 
 ## Additional Visualizations from Module 14
 
+### Bike Utilization Bubble Chart
+
+![__](https://github.com/Johnnytoobadman/bikesharing/blob/main/NYC_Citibike_Challenge/Images/Module_14_Bubble_Viz.png)
+
+### NYC Map with Bubble Markers for starting Locations
+
+![__](https://github.com/Johnnytoobadman/bikesharing/blob/main/NYC_Citibike_Challenge/Images/Module_14_GeoBubble_Viz.png)
 
 
 ### Dashboard
@@ -91,5 +102,11 @@
 ## SUMMARY REPORT
 
 ### In summary the presentation makes it clear that NYC has a very successful CitiBike Sharing Service that appeals to male subscribers for use commuting to and from work during the weekday.  There is also lighter usage during non commute hours and weekends likely by tourists. The Investors should turn their focus to how they can measure the market in Des Moines of male bike commuters that work on a subscription basis as this will be their core business.  Secondarily they should try to market to the female commuters and tourists to keep their business strong.
+
+### Additional Visualizations Recommended:
+
+ - Additional Focus on Male Commuter Bike Use: Map Male Commuting start and stop locations and use this visualiztion to determine that there are adequate bikes in these locations.
+ 
+ - Additional focus on Weekend Pleasure trip duration with start/stop locations to confirm bike availability is best in these locations to serve that specific market.
 
 END
