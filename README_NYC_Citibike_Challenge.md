@@ -60,6 +60,10 @@
 
 ![__](https://github.com/Johnnytoobadman/bikesharing/blob/main/NYC_Citibike_Challenge/Images/6WKS.png)
 
+## Additional Visualizations from Module 14
+
+
+
 ### Dashboard
 
 ![__](https://github.com/Johnnytoobadman/bikesharing/blob/main/NYC_Citibike_Challenge/Images/dashboard.png)
